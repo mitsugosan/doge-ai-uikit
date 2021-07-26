@@ -17,6 +17,9 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "test": "jest",
+    "minor": "npm version minor",
+    "patch": "npm version patch",
+    "major": "npm version major",
     "release": "yarn build && npm publish"
   },
   "husky": {
