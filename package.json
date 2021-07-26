@@ -20,6 +20,7 @@
     "minor": "npm version minor",
     "patch": "npm version patch",
     "major": "npm version major",
+    "stage": "yarn build && yarn patch && npm publish",
     "release": "yarn build && npm publish"
   },
   "husky": {
