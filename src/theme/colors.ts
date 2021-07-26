@@ -18,7 +18,7 @@ export const lightColors: Colors = {
   ...baseColors,
   ...brandColors,
   background: "#F5F0F1",
-  secondary: "#7251b5", //
+  secondary: "#a06cd5", //
   backgroundDisabled: "#E9EAEB",
   contrast: "#191326",
   invertedContrast: "#FFFFFF",
@@ -27,10 +27,10 @@ export const lightColors: Colors = {
   tertiary: "#EFF4F5",
   text: "#452A7A", //
   textDisabled: "#BDC2C4",
-  textSubtle: "#D1004D",
+  textSubtle: "#a06cd5",
   borderColor: "#E9EAEB",
   card: "#F5F0F1",
-  nav: "#D1004D", //
+  nav: "#a06cd5", //
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #F5F0F1 0%, #F5F0F1 100%)",
   },
