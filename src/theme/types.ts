@@ -1,3 +1,6 @@
+import { DefaultTheme } from 'styled-components';
+import { PanelTheme } from '../widgets/Menu/types';
+
 export type Breakpoints = string[];
 
 export type MediaQueries = {
@@ -52,6 +55,7 @@ export type Colors = {
   borderColor: string;
   card: string;
   nav: string;
+  panel: string;
 
   // Gradients
   gradients: Gradients;
@@ -64,3 +68,7 @@ export type ZIndices = {
   dropdown: number;
   modal: number;
 };
+
+export interface CustomTheme extends DefaultTheme {
+  panel?: PanelTheme,
+}

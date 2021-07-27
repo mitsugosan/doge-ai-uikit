@@ -23,6 +23,12 @@ export interface NavTheme {
   hover: string;
 }
 
+
+export interface PanelTheme {
+  background: string;
+  hover: string;
+}
+
 export interface MenuSubEntry {
   label: string;
   href: string;
