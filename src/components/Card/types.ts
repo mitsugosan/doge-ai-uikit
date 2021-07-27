@@ -9,7 +9,7 @@ export interface CardRibbonProps {
 
 export type CardTheme = {
   background: string;
-  boxShadow: string;
+  boxShadow?: string;
   boxShadowActive: string;
   boxShadowSuccess: string;
   boxShadowWarning: string;
