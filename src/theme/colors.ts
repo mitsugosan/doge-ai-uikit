@@ -54,7 +54,7 @@ export const darkColors: Colors = {
   textDisabled: "#717161", //
   textSubtle: "#ffffff", //
   borderColor: "#61634b",
-  card: "#7251B5", //
+  card: "#10002B", //
   panel:"#3C096C", 
   nav: "#10002B", //
   gradients: {
