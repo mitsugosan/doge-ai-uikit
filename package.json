@@ -1,6 +1,6 @@
 {
   "name": "glassswap-uikit",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "UI Components for Glass Swap Finance",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
