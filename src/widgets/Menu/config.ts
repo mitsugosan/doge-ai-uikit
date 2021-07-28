@@ -111,7 +111,7 @@ export const links = [
       {
         label: "Github",
         href: "https://github.com/tapswapmoney/Tapswap/",
-        target: '_blank',
+        target: "_blank",
       },
       {
         label: "Docs",
@@ -132,18 +132,18 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/tapswapchat",
+        href: "https://t.me/glassswap",
       },
       {
         label: "Announcements",
-        href: "https://t.me/tapswap",
+        href: "https://t.me/glassswap",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/tapswapdex",
+    href: "https://twitter.com/glassswap",
   },
 ];
 
