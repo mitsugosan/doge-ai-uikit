@@ -31,7 +31,7 @@ export const links = [
   {
     label: "Certik Audit (In-Progress)",
     icon: "ShieldIcon",
-    href: "https://twitter.com/tapswapdex/status/1367218225310818308",
+    href: "https://twitter.com/glassswapF/status/1367218225310818308",
     target: "_blank",
   },
   {
@@ -110,16 +110,16 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/tapswapmoney/Tapswap/",
+        href: "https://github.com/glassswapF/glassswapF/",
         target: "_blank",
       },
       {
         label: "Docs",
-        href: "https://TapSwap.gitbook.io/tapswap/",
+        href: "https://glassswapF.gitbook.io/glassswapF/",
       },
       {
         label: "Blog",
-        href: "https://tapswapmoneydex.medium.com/",
+        href: "https://glassswapF.medium.com/",
       },
     ],
   },
@@ -132,11 +132,11 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/glassswap",
+        href: "https://t.me/glassswapF",
       },
       {
         label: "Announcements",
-        href: "https://t.me/glassswap",
+        href: "https://t.me/glassswapF",
       },
     ],
   },
